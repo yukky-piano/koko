@@ -1,0 +1,14 @@
+{
+  "name": "koshigaya-trush",
+  "version": "1.0.0",
+  "description": "anser trush days on Koshigaya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yukky",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25"
+  }
+}
